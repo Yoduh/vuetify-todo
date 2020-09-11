@@ -1,4 +1,5 @@
-# vuetify-playlist
+# vuetify-todo
+A todo app made to teach myself the Vuetify component framework
 
 ## Project setup
 ```
